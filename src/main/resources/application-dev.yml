@@ -1,2 +1,8 @@
 server:
   port: 8090
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/ptz_market
+    username: 1MuwpJjq66xPrjbWANxB
+    password: ZZ18VT1SZ7RTYjJ1xB9d
